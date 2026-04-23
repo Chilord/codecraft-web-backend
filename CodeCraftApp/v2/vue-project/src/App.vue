@@ -1,7 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import AOS from 'aos'
-import 'aos/dist/aos.css'
+
 
 AOS.init()
 const BASE_URL = 'http://localhost:5000'
