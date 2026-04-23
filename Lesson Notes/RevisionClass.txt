@@ -1,0 +1,66 @@
+Good evening everyone. Welcome to the revision class for yesterday's lesson.
+Like I said before,
+this is the final class that will be free,
+so I'll start dropping the meeting's link
+on a separate chat for people who have paid.
+It costs 15000 naira per month, but of course, for anyone who pays this month, 
+I'll give them a rate of 10,000 naira per month.
+If you’re Interested in joining, you can contact me.
+My number is on the group,
+so you can chat me privately after this meeting if you are interested. 
+I am open to negotiating the price, but the standard is 10,000 naira per month per person.
+
+So I want to use this class to answer 
+some of the questions to the assignments I gave you guys last time,
+and sort of use that as an opportunity to revise.
+
+
+Question No 1:
+What is programming in your own words?
+So, can anybody answer this question?
+* Q & A *
+Programming is the act of giving the computer a set of instructions,
+called an ALGORITHM.
+And remember that the programmer's main job is to 
+DESIGN that algorithm, e.g the phonebook and the Fibonacci algorithm that we did yesterday.
+Is there anybody that can describe those two algorithms that we did yesterday?
+
+**  Q & A **
+
+Question No 2:
+Why is pseudocode useful?
+So, would anybody like to talk about why they think pseudocode might be useful?
+
+* Q & A *
+I can remember I taught you guys how to plan pseudocode, but I need you guys to write some example pseudocode for me.
+That brings us to question 3:
+Write pseudocode to check if a number is greater than 5
+Can anybody try this: 
+Answer:
+IF num > 5:
+    say Num is greater than 5
+ELSE:
+    Nothing
+
+No 4: What is a variable? Give an example.
+    A variable is a store for the computer's memory. It keeps data in a specifc place, so it ensures that even though
+    we may noot know the exact contents of a particular piece of info., we can access it.
+    I want you to imagine a Table in an Excel spreadsheet, or maybe one you may write in school.
+    Name      ID     Age
+    "Peter"   2       15
+
+    So even though we may not know EVERYTHING about Peter, his personality,
+    or his resume, but we can access useful information about Peter to 
+    achieve whatever goal we may have.
+
+    Example:
+    Ok, I didn't teach this to you guys in Scratch, but this is how you can create a variable in Scratch:
+
+    *Example*
+    But typically in pseudocode, and most programming languages and tools, you can create a variable like this:
+    variable_name = value
+
+Question 5: What does a loop do? 
+    A loop repeats a set of instructions for a certain number of times, and they're like repeat blocks in scratch.
+    Example of when a repeat block would be needed: 
+    In 
