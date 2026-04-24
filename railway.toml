@@ -2,4 +2,4 @@
 builder = "NIXPACKS"
 
 [deploy]
-startCommand = "cd CodeCraftApp/backend && gunicorn app:app --bind 0.0.0.0:$PORT"
+startCommand = "gunicorn CodeCraftApp.v2.backend.app:app --bind 0.0.0.0:$PORT"
