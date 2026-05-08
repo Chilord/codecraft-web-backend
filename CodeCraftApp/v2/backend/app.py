@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_cors import CORS
-from routes.router import auth_bp
+from .routes.router import auth_bp
 from datetime import timedelta
 
 app = Flask(__name__)
