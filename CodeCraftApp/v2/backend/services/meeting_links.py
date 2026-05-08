@@ -1,4 +1,4 @@
-MEETING_LINKS = ["https://drive.google.com/file/d/1s0D0ef1NGCefZ-OWE2UhShdCFtHUIy7E/preview", "https://drive.google.com/file/d/1IcgmMcfpzw7IBMu9aqCvWlDatAdIFc4h/view?usp=sharing", "", "", "", "", "", "", "", "", "", "", ""]
+MEETING_LINKS = ["https://drive.google.com/file/d/1s0D0ef1NGCefZ-OWE2UhShdCFtHUIy7E/preview", "https://drive.google.com/file/d/1IcgmMcfpzw7IBMu9aqCvWlDatAdIFc4h/preview", "", "", "", "", "", "", "", "", "", "", ""]
 INTRO_LINK = MEETING_LINKS[0]
 WEEK_1_LINK = MEETING_LINKS[1]
 WEEK_2_LINK = MEETING_LINKS[2]
